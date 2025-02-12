@@ -1,0 +1,1 @@
+This is notes about our project, I think only first person must have a editing rights

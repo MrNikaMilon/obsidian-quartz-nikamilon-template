@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "c79101275d71d4d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7eb7167c81b4db2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08ee8b2b7a0d2d37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/category-folder/Information about project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Information about project"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65b0fffae6934507",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4f353487ddcc26d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d694c687a94ce3c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7ea505eb84c3014c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9914f79dc363bba2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b73ffc156d82b6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aab9c6db52ea6fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca1ba134e90f5657",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/content/category-folder/Information about project.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Information about project"
+            }
+          },
+          {
+            "id": "12cfd6ca50b07ab7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/content/category-folder/Information about project.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Information about project"
+            }
+          },
+          {
+            "id": "15a27dafbc87a16b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee14af24e65a270e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/content/category-folder/Information about project.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Information about project"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "08ee8b2b7a0d2d37",
+  "lastOpenFiles": [
+    "source/content/category-folder/Some note.md",
+    "source/content/category-folder/Information about project.md",
+    "source/content/category-folder/index.md",
+    "README.md",
+    "source/content/index.md"
+  ]
+}
