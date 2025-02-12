@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/category-folder/Information about project.md",
+                "file": "source/content/category-folder/Test notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Information about project"
+              "title": "Test notes"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/category-folder/Information about project.md",
+                "file": "source/content/category-folder/Test notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Information about project"
+              "title": "Backlinks for Test notes"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/category-folder/Information about project.md",
+                "file": "source/content/category-folder/Test notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Information about project"
+              "title": "Outgoing links from Test notes"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/category-folder/Information about project.md"
+                "file": "source/content/category-folder/Test notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Information about project"
+              "title": "Outline of Test notes"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "08ee8b2b7a0d2d37",
   "lastOpenFiles": [
-    "source/content/category-folder/Some note.md",
     "source/content/category-folder/Information about project.md",
+    "source/content/category-folder/Test notes.md",
+    "source/content/category-folder/Some note.md",
     "source/content/category-folder/index.md",
     "README.md",
     "source/content/index.md"
