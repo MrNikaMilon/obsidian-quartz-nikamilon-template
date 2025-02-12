@@ -165,13 +165,16 @@
   },
   "active": "08ee8b2b7a0d2d37",
   "lastOpenFiles": [
+    "source/content/category-folder/index.md",
+    "source/docs/advanced/architecture.md",
+    "source/docs/advanced/index.md",
+    "source/docs/advanced/creating components.md",
+    "source/CODE_OF_CONDUCT.md",
+    "README.md",
+    "source/README.md",
+    "source/content/index.md",
     "source/content/category-folder/Test notes.md",
     "source/content/category-folder/Some note.md",
-    "source/content/category-folder/Information about project.md",
-    "source/content/category-folder/index.md",
-    "source/CODE_OF_CONDUCT.md",
-    "source/README.md",
-    "README.md",
-    "source/content/index.md"
+    "source/content/category-folder/Information about project.md"
   ]
 }
