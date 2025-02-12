@@ -1,4 +1,4 @@
-# Quartz notebook
+# NikaMilon notebook
 
 To run locally, run npm install then:
 
