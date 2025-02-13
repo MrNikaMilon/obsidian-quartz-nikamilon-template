@@ -1,1 +1,4 @@
-.trash/*
+# Игнорировать всё
+/*
+# Исключить папку content
+!/source/content/category-folder
