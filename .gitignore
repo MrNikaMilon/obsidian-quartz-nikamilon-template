@@ -1,6 +1,4 @@
 # Игнорировать всё
 /*
-!/.gitignore
-
 # Исключить папку content
-!/category-folder/
+!/source/content/category-folder
