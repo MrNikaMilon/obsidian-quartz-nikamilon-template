@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lets think.md",
+                "file": "category-folder/Lets think.md",
                 "mode": "source",
                 "source": false
               },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lets think.md",
+                "file": "category-folder/Lets think.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lets think.md",
+                "file": "category-folder/Lets think.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lets think.md",
+                "file": "category-folder/Lets think.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,10 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5babfcfa8fc97654",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "category-folder/Information about project.md",
-    "Lets think.md",
+    "category-folder/Lets think.md",
     "category-folder/index.md",
     "index.md",
     "category-folder/Some note.md",
