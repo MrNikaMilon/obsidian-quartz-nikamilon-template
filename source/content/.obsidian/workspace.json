@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Ne pages for test.md",
+                "file": "category-folder/Some note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ne pages for test"
+              "title": "Some note"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Ne pages for test.md",
+                "file": "category-folder/Some note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ne pages for test"
+              "title": "Backlinks for Some note"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Ne pages for test.md",
+                "file": "category-folder/Some note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ne pages for test"
+              "title": "Outgoing links from Some note"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Ne pages for test.md",
+                "file": "category-folder/Some note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ne pages for test"
+              "title": "Outline of Some note"
             }
           }
         ]
@@ -212,10 +212,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "af5d0a3dd79f4066",
   "lastOpenFiles": [
-    "category-folder/Lets think.md",
     "category-folder/Ne pages for test.md",
+    "category-folder/Lets think.md",
     "category-folder/Information about project.md",
     "category-folder/index.md",
     "index.md",
