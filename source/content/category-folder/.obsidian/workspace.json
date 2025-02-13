@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lets think.md",
+                "file": "Some note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lets think"
+              "title": "Some note"
             }
           }
         ],
@@ -186,9 +186,9 @@
   },
   "active": "f394d6db5c8c9e83",
   "lastOpenFiles": [
+    "Lets think.md",
     "Information about project.md",
     "index.md",
-    "Lets think.md",
     "Ne pages for test.md",
     "Some note.md",
     "Test notes.md",
