@@ -1,1 +1,6 @@
-.trash/*
+# Игнорировать всё
+/*
+!/.gitignore
+
+# Исключить папку content
+!/content/
