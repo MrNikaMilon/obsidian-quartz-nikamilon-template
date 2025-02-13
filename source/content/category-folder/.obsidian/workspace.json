@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test folder/Untitledttt.md",
+                "file": "test folder/Туториал по работе с сервисом ведения документации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitledttt"
+              "title": "Туториал по работе с сервисом ведения документации"
             }
           }
         ],
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1a01defd3cd40807",
@@ -236,10 +237,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b7955adb2200d4e",
+  "active": "34bfec1a4b523212",
   "lastOpenFiles": [
     "New another file.md",
-    "test folder/Untitledttt.md",
+    "test folder/Туториал по работе с сервисом ведения документации.md",
     "test folder",
     "M? Dude not cool!.md",
     "Some note.md",
