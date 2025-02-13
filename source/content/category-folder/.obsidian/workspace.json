@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Some note"
             }
+          },
+          {
+            "id": "243e1c5feab3c2d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M? Dude not cool!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "M? Dude not cool!"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,13 +208,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f394d6db5c8c9e83",
+  "active": "243e1c5feab3c2d4",
   "lastOpenFiles": [
+    "Some note.md",
+    "M? Dude not cool!.md",
     "Lets think.md",
     "Information about project.md",
     "index.md",
     "Ne pages for test.md",
-    "Some note.md",
     "Test notes.md",
     "Testing new page.md"
   ]
