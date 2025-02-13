@@ -165,13 +165,23 @@
               "icon": "lucide-list",
               "title": "Outline of Test notes"
             }
+          },
+          {
+            "id": "1b7955adb2200d4e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
