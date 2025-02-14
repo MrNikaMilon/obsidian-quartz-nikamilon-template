@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="frontend/static/images/logo/logo-256.png" alt="">
+  <img src="source/logo-dev.png" alt="">
   <h1>techstud.dev</h1>
 </div>
 
