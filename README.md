@@ -4,6 +4,7 @@
   <h1>techstud.dev</h1>
 </div>
 
+
 URL деплоя: [https://mrnikamilon.github.io/obsidian-quartz-nikamilon-template](https://mrnikamilon.github.io/obsidian-quartz-nikamilon-template)
 
 > Шаблон для размещения вашего блокнота Obsidian на страницах GitHub с развертыванием CI.
