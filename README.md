@@ -63,6 +63,6 @@ URL деплоя: [https://mrnikamilon.github.io/obsidian-quartz-nikamilon-temp
 * [@artem-xopc](https://github.com/artem-xopc)
 
 ### 👍 Информация и полезные материалы
-* Подробный туториал: [**Host your Obsidian notebook on GitHub Pages for free**](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1)
+* Подробный туториал: [**Host your Obsidian notebook on GitHub Pages for free**](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1)
 * Оригинальный репозиторий: [**obsidian-quartz-template**](https://github.com/DefenderOfBasic/obsidian-quartz-template)
 * Шоукейс пример: [**Quartz Showcase**](https://quartz.jzhao.xyz/showcase)
