@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing new page.md",
+                "file": "test folder/Туториал по работе с сервисом ведения документации.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing new page"
+              "title": "Туториал по работе с сервисом ведения документации"
             }
           }
         ],
@@ -224,7 +224,10 @@
   },
   "active": "34bfec1a4b523212",
   "lastOpenFiles": [
+    "test folder/Старый README.md",
+    "test folder/Туториал по работе с сервисом ведения документации.md",
     "M Dude not cool!.md",
+    "Testing new page.md",
     "Test notes.md",
     "Some note.md",
     "New another file.md",
@@ -234,9 +237,6 @@
     "Information about project.md",
     "index.md",
     "test folder/Что то для Темы.md",
-    "test folder/Старый README.md",
-    "test folder/Туториал по работе с сервисом ведения документации.md",
-    "test folder",
-    "Testing new page.md"
+    "test folder"
   ]
 }
